@@ -1,0 +1,13 @@
+{
+  "name": "ia_course",
+  "version": "1.0.0",
+  "description": "Aplicacion en consola con ejercicios de la materia de ia de la UAGRM desde el mas basico al mas completo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "tsc",
+    "listen-changes" : "tsc -w"
+  },
+  "author": "Claudio.dev",
+  "license": "ISC"
+}
